@@ -60,4 +60,4 @@ function resetGame() {
   recordElement.textContent = `Рекорд: ${record}`;
 }
 
-setInterval(createCircle, 2000);
+setInterval(createCircle, 1000);
